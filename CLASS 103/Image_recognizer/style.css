@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+
+#camera,#result
+{
+    border-style: dashed;
+    width: 350px;
+    height: 300px;
+}
